@@ -9,6 +9,6 @@ scanf("%d",&a[i]);
 }}
 for(i=0;i<n;i++){
 sum=sum+a[i];}
-prinf("Sum is %d",sum);
+printf("Sum is %d",sum);
 return 0;
 }
